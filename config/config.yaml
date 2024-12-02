@@ -1,0 +1,10 @@
+api:
+  url: "https://api.restful-api.dev/objects"
+database:
+  host: "localhost"
+  port: 5432
+  name: "phones"
+  user: "postgres"
+  password: "password"
+log:
+  level: "INFO"
